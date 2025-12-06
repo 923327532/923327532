@@ -1,67 +1,29 @@
+# Hola, soy Roberto López 👋
+### Backend Developer & Cloud Enthusiast
+
 <div align="center">
-  
-  <!-- EFECTO DE FONDO Y CABECERA (El truco visual) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Roberto%20Lopez&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Java%20%7C%20Microservicios&descAlignY=51&descSize=20" width="100%"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=25D366&width=435&lines=Backend+Developer;Java+Spring+Boot;Microservicios" alt="Typing SVG" />
+</div>
 
-  <!-- NAVBAR (Simulada con enlaces) -->
-  <p>
-    <a href="#-sobre-mí">🧐 Sobre Mí</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-stack-tecnológico">🛠️ Stack</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-proyectos">🚀 Proyectos</a> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-estadísticas">📊 Estadísticas</a>
-  </p>
+---
 
-  <br/>
+### 🚀 **¡Mi Portafolio Web ya está en vivo!**
+He construido un portafolio interactivo con Angular 17, animaciones y modo oscuro.
+Ahí encontrarás mis proyectos detallados, certificaciones validadas y mi experiencia completa.
 
-  <!-- SECCIÓN: SOBRE MÍ -->
-  <h2 id="-sobre-mí">🧐 Sobre Mí</h2>
-  <p>
-    <em>"Construyendo arquitecturas escalables en la nube."</em><br>
-    Soy estudiante de <strong>Ingeniería de Software</strong> especializado en el ecosistema <strong>Java Spring Boot</strong>.<br>
-    Actualmente lidero el desarrollo backend de <em>Tecsup Vocacional</em>.
-  </p>
+## 👉 [VER MI PORTAFOLIO WEB AQUÍ](https://923327532.github.io/portfolio/) 👈
 
-  <br/>
+---
 
-  <!-- SECCIÓN: STACK (Con iconos grandes) -->
-  <h2 id="-stack-tecnológico">🛠️ Stack Tecnológico</h2>
-  <img src="https://skillicons.dev/icons?i=java,spring,docker,aws,postgres,git,kotlin,postman&perline=8" />
+### 🛠️ Tecnologías que domino
+| Backend | Cloud | Frontend |
+| :---: | :---: | :---: |
+| Java, Spring Boot, Python | AWS, Docker, Linux | Angular, React |
 
-  <br/><br/>
+---
 
-  <!-- SECCIÓN: PROYECTOS -->
-  <h2 id="-proyectos">🚀 Proyectos Destacados</h2>
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <h3>🎓 Tecsup Vocacional</h3>
-        <p>Plataforma de Microservicios</p>
-        <img src="https://img.shields.io/badge/Spring_Boot-Red?style=flat-square" />
-        <img src="https://img.shields.io/badge/AWS-Black?style=flat-square" />
-        <br/>
-        <a href="#">Ver Repositorio</a>
-      </td>
-      <td width="50%" align="center">
-        <h3>🎫 TicketGo</h3>
-        <p>App de Venta de Entradas</p>
-        <img src="https://img.shields.io/badge/Kotlin-Purple?style=flat-square" />
-        <img src="https://img.shields.io/badge/Firebase-Orange?style=flat-square" />
-        <br/>
-        <a href="#">Ver Repositorio</a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- SECCIÓN: ESTADÍSTICAS -->
-  <h2 id="-estadísticas">📊 Estadísticas</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=923327532&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=923327532&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117" height="180"/>
-
-  <br/><br/>
-  
-  <!-- PIE DE PÁGINA CON IMAGEN DE CIERRE -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
+<div align="center">
+  <a href="https://923327532.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/VISITAR%20PORTAFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=white" height="40" />
+  </a>
 </div>
