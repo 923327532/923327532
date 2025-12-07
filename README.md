@@ -36,11 +36,6 @@ Incluye un diseño **Glassmorphism**, animaciones fluidas y un panel de administ
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=923327532&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=923327532&layout=compact&theme=midnight-owl&hide_border=true&bg_color=00000000" height="150" alt="languages" />
-</div>
-
-<div align="center">
   <br>
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
