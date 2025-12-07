@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://923327532.github.io/portfolio-/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=BACKEND+DEVELOPER;JAVA+SPRING+BOOT;CLOUD+ARCHITECT;ANGULAR+%26+MICROSERVICIOS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=BACKEND+DEVELOPER;JAVA+SPRING+BOOT;CLOUD+ARCHITECT;ANGULAR+%26+MICROSERVICIOS" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@ Incluye un diseño **Glassmorphism**, animaciones fluidas y un panel de administ
 
 <div align="center">
   <a href="https://923327532.github.io/portfolio-/" target="_blank">
-    <img src="https://img.shields.io/badge/✨_VER_PORTAFOLIO_EN_VIVO-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF88&labelColor=1a1a1a" height="50" />
+    <img src="https://img.shields.io/badge/✨_VER_PORTAFOLIO_EN_VIVO-111111?style=for-the-badge&logo=google-chrome&logoColor=00E676&labelColor=000000" height="45" />
   </a>
 </div>
 
@@ -36,16 +36,16 @@ Incluye un diseño **Glassmorphism**, animaciones fluidas y un panel de administ
 ### 📊 Mis Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=923327532&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=923327532&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=923327532&show_icons=true&theme=midnight-owl&hide_border=true&bg_color=00000000" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=923327532&layout=compact&theme=midnight-owl&hide_border=true&bg_color=00000000" height="150" alt="languages" />
 </div>
 
 <div align="center">
   <br>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:roberolopezcalle072@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contactar-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contactar-EA4335?style=for-the-badge&logo=gmail" />
   </a>
 </div>
