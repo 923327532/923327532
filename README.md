@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 **¡PORTAFOLIO WEB 2025 DISPONIBLE!**
+### 🚀 **¡PORTAFOLIO WEB 2026 DISPONIBLE!**
 
 He lanzado mi nueva web personal construida con **Angular 17 + Spring Boot**.
 Incluye un diseño **Glassmorphism**, animaciones fluidas y un panel de administración real.
